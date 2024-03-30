@@ -7,6 +7,11 @@ PADAVAN_THEMES_REPO="https://github.com/shvchk/padavan-themes.git"
 #PADAVAN_THEMES_REPO="https://github.com/shvchk/padavan-themes-lite.git"
 PADAVAN_THEMES_BRANCH="main"
 
-PADAVAN_THEMES=(
-   grey2
+PPADAVAN_THEMES=(
+#  blue
+#  blue2
+#  grey
+#  grey2
+#  white
+#  yellow
 )
